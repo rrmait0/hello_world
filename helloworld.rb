@@ -1,2 +1,2 @@
 print "hello world \n"
-pring "update \n"
+print "update \n"
